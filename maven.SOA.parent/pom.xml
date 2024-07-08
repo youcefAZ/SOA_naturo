@@ -14,7 +14,7 @@
 
 	<modules>
 		<module>
-			maven.mc-SOA.parent
+			../maven.mc-SOA.parent
 		</module>
 	</modules>
 </project>
